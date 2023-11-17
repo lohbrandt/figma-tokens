@@ -1,0 +1,16 @@
+{
+  "name": "@backlight-dev/juice-spare-xclui.figma-tokens-lp2vbh4n",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve Jto6vshSRPpuM8IfMZho --open"
+  },
+  "devDependencies": {
+    "@divriots/dockit-core": "^0.9.4",
+    "lit": "^2.2.2"
+  },
+  "dependencies": {}
+}
